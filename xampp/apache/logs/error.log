@@ -1,0 +1,854 @@
+[Tue Apr 19 23:40:46.436562 2022] [ssl:warn] [pid 14328:tid 84] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:40:46.507572 2022] [ssl:warn] [pid 14328:tid 84] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:40:52.074381 2022] [mpm_winnt:notice] [pid 14328:tid 84] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Tue Apr 19 23:40:52.074381 2022] [mpm_winnt:notice] [pid 14328:tid 84] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Tue Apr 19 23:40:52.074381 2022] [core:notice] [pid 14328:tid 84] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Apr 19 23:40:52.078572 2022] [mpm_winnt:notice] [pid 14328:tid 84] AH00418: Parent: Created child process 20980
+[Tue Apr 19 23:40:52.444990 2022] [ssl:warn] [pid 20980:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:40:52.497403 2022] [ssl:warn] [pid 20980:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:40:52.531403 2022] [mpm_winnt:notice] [pid 20980:tid 360] AH00354: Child: Starting 150 worker threads.
+[Tue Apr 19 23:41:34.717118 2022] [ssl:warn] [pid 11912:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:41:34.776669 2022] [ssl:warn] [pid 11912:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:41:34.812956 2022] [mpm_winnt:notice] [pid 11912:tid 376] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Tue Apr 19 23:41:34.812956 2022] [mpm_winnt:notice] [pid 11912:tid 376] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Tue Apr 19 23:41:34.812956 2022] [core:notice] [pid 11912:tid 376] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Apr 19 23:41:34.817001 2022] [mpm_winnt:notice] [pid 11912:tid 376] AH00418: Parent: Created child process 22068
+[Tue Apr 19 23:41:35.232300 2022] [ssl:warn] [pid 22068:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:41:35.285569 2022] [ssl:warn] [pid 22068:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 19 23:41:35.319300 2022] [mpm_winnt:notice] [pid 22068:tid 372] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 20 00:00:42.809829 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64447] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:00:42.810370 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64447] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:33.544316 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:33.544600 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:35.221482 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:35.221482 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:36.855826 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:36.856770 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:37.538601 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:37.538601 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:38.005826 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:38.005826 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:38.252011 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:38.252921 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:39.036534 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:39.036534 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:39.191748 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:39.192770 2022] [php:warn] [pid 22068:tid 1876] [client ::1:64462] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:51.986144 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:51.986144 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:53.224940 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:53.224940 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:54.158064 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:54.159062 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:54.336667 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:54.336667 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:54.412172 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:54.412172 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:01:54.505174 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:01:54.506174 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64463] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:03:05.120760 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64500] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:03:05.121759 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64500] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:03:08.624251 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64500] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:03:08.625251 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64500] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:15:59.896998 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64675] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:21.572394 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:21.573350 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:17:23.648025 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:23.649029 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:17:27.883541 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:27.883541 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:17:29.556227 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:29.556227 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:17:29.838042 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64689] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:29.838042 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64689] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:17:30.010333 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:30.010333 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64687] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:17:30.134717 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64689] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:17:30.134717 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64689] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:19:30.302869 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.339943 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.354940 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.401684 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.437918 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.470399 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.483399 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.494399 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:30.506400 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.590280 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.614210 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.627210 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.638216 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.647209 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.674519 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.721322 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.751369 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.759218 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:31.765856 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.121258 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.153371 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.185267 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.194995 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.202643 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.209644 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.215723 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.222643 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.230643 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:32.237199 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.357400 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.366463 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.375399 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.382899 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.391332 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.430389 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.438792 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.445790 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.452799 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:33.458916 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:19:35.291865 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.305112 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.314916 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.322221 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.330049 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.388387 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.434716 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.495359 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.506564 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:35.517383 2022] [php:warn] [pid 22068:tid 1884] [client ::1:64712] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.560557 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.570359 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.578356 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.585355 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.593356 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.601826 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.608833 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.618826 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.625826 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:40.634005 2022] [php:warn] [pid 22068:tid 1852] [client ::1:64714] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:46.491485 2022] [ssl:warn] [pid 21168:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:19:46.545769 2022] [core:warn] [pid 21168:tid 396] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 20 00:19:46.547769 2022] [ssl:warn] [pid 21168:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:19:46.579774 2022] [mpm_winnt:notice] [pid 21168:tid 396] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Apr 20 00:19:46.579774 2022] [mpm_winnt:notice] [pid 21168:tid 396] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Apr 20 00:19:46.579774 2022] [core:notice] [pid 21168:tid 396] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 20 00:19:46.583482 2022] [mpm_winnt:notice] [pid 21168:tid 396] AH00418: Parent: Created child process 11760
+[Wed Apr 20 00:19:46.873224 2022] [ssl:warn] [pid 11760:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:19:46.924371 2022] [ssl:warn] [pid 11760:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:19:46.957371 2022] [mpm_winnt:notice] [pid 11760:tid 364] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 20 00:19:52.244303 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.255021 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.262949 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.274950 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.301318 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.309436 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.316338 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.323245 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.330246 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:52.340573 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.686647 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.695424 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.705389 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.734489 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.765235 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.796531 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.826885 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.873048 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.905254 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:53.966159 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.569208 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.580162 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.590361 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.610204 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.650844 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.674029 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.682092 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.692029 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.718742 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:19:55.726836 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64836] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.740395 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.749634 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.758299 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.791342 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.814761 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.846167 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.892208 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.901019 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.911476 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:01.918029 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.000737 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.031705 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.062523 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.070154 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.078154 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.089220 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.099161 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.110153 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.117154 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:03.125157 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64837] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.155740 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.167716 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.176739 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.186790 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.196740 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.224739 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.252954 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.261730 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.268037 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:12.276732 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.319870 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.329031 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.338051 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.350870 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.360992 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.383043 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.392934 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.419118 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.427111 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:13.434483 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64898] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.478893 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.495829 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.524827 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.556237 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.577033 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.586031 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.594035 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.602100 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.609031 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:18.617146 2022] [php:warn] [pid 11760:tid 1888] [client ::1:64953] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.348142 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.385318 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.415799 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.446436 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.476875 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.508135 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.516945 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.525951 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.533010 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:20:38.543014 2022] [php:warn] [pid 11760:tid 1896] [client ::1:64994] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:21:12.453768 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:21:12.454008 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:21:16.197899 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:21:16.197899 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:21:21.073000 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.080106 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.088983 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.096871 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.105473 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.112617 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.119477 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.125471 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:21.131899 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.203336 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.232331 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.273932 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.334669 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.364766 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.379787 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.415904 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.427092 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.438902 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:22.451946 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65042] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:21:38.792008 2022] [php:warn] [pid 11760:tid 1896] [client ::1:65088] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:21:38.792939 2022] [php:warn] [pid 11760:tid 1896] [client ::1:65088] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:22:48.516723 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65093] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:22:48.517725 2022] [php:warn] [pid 11760:tid 1888] [client ::1:65093] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:23:45.319573 2022] [ssl:warn] [pid 18196:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:23:45.374504 2022] [core:warn] [pid 18196:tid 360] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 20 00:23:45.376499 2022] [ssl:warn] [pid 18196:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:23:45.409360 2022] [mpm_winnt:notice] [pid 18196:tid 360] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Apr 20 00:23:45.409495 2022] [mpm_winnt:notice] [pid 18196:tid 360] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Apr 20 00:23:45.409495 2022] [core:notice] [pid 18196:tid 360] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 20 00:23:45.413161 2022] [mpm_winnt:notice] [pid 18196:tid 360] AH00418: Parent: Created child process 20776
+[Wed Apr 20 00:23:45.704122 2022] [ssl:warn] [pid 20776:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:23:45.755186 2022] [ssl:warn] [pid 20776:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:23:45.786186 2022] [mpm_winnt:notice] [pid 20776:tid 388] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 20 00:23:58.331502 2022] [php:warn] [pid 20776:tid 1892] [client ::1:65104] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:23:58.332620 2022] [php:warn] [pid 20776:tid 1892] [client ::1:65104] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:26:15.123247 2022] [ssl:warn] [pid 15376:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:26:15.174102 2022] [core:warn] [pid 15376:tid 380] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 20 00:26:15.176100 2022] [ssl:warn] [pid 15376:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:26:15.207100 2022] [mpm_winnt:notice] [pid 15376:tid 380] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Apr 20 00:26:15.207100 2022] [mpm_winnt:notice] [pid 15376:tid 380] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Apr 20 00:26:15.207100 2022] [core:notice] [pid 15376:tid 380] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 20 00:26:15.210421 2022] [mpm_winnt:notice] [pid 15376:tid 380] AH00418: Parent: Created child process 1916
+[Wed Apr 20 00:26:15.499360 2022] [ssl:warn] [pid 1916:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:26:15.550359 2022] [ssl:warn] [pid 1916:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:26:15.583436 2022] [mpm_winnt:notice] [pid 1916:tid 352] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 20 00:26:28.878837 2022] [php:warn] [pid 1916:tid 1892] [client ::1:65130] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:26:28.879837 2022] [php:warn] [pid 1916:tid 1892] [client ::1:65130] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:26:31.841450 2022] [php:warn] [pid 1916:tid 1884] [client ::1:65131] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:26:31.841450 2022] [php:warn] [pid 1916:tid 1884] [client ::1:65131] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 00:36:48.929103 2022] [ssl:warn] [pid 21088:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:36:48.982104 2022] [core:warn] [pid 21088:tid 328] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 20 00:36:48.984104 2022] [ssl:warn] [pid 21088:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:36:49.015180 2022] [mpm_winnt:notice] [pid 21088:tid 328] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Apr 20 00:36:49.015180 2022] [mpm_winnt:notice] [pid 21088:tid 328] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Apr 20 00:36:49.015180 2022] [core:notice] [pid 21088:tid 328] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 20 00:36:49.017103 2022] [mpm_winnt:notice] [pid 21088:tid 328] AH00418: Parent: Created child process 3576
+[Wed Apr 20 00:36:49.228266 2022] [ssl:warn] [pid 3576:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:36:49.279380 2022] [ssl:warn] [pid 3576:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 00:36:49.311396 2022] [mpm_winnt:notice] [pid 3576:tid 324] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 20 00:37:14.868597 2022] [php:warn] [pid 3576:tid 1848] [client ::1:65357] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:46:26.821966 2022] [php:warn] [pid 3576:tid 1848] [client ::1:49182] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 00:53:58.109515 2022] [php:warn] [pid 3576:tid 1860] [client ::1:49311] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\AMS.php on line 6, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:53:58.114605 2022] [php:warn] [pid 3576:tid 1860] [client ::1:49311] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113, referer: http://localhost/AMS/index.php
+[Wed Apr 20 00:53:58.114605 2022] [php:warn] [pid 3576:tid 1860] [client ::1:49311] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118, referer: http://localhost/AMS/index.php
+[Wed Apr 20 17:47:18.085500 2022] [ssl:warn] [pid 6224:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 17:47:18.152942 2022] [core:warn] [pid 6224:tid 348] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 20 17:47:18.155818 2022] [ssl:warn] [pid 6224:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 17:47:18.203370 2022] [mpm_winnt:notice] [pid 6224:tid 348] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Apr 20 17:47:18.203370 2022] [mpm_winnt:notice] [pid 6224:tid 348] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Apr 20 17:47:18.203370 2022] [core:notice] [pid 6224:tid 348] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 20 17:47:18.215968 2022] [mpm_winnt:notice] [pid 6224:tid 348] AH00418: Parent: Created child process 18528
+[Wed Apr 20 17:47:18.609826 2022] [ssl:warn] [pid 18528:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 17:47:18.699035 2022] [ssl:warn] [pid 18528:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 17:47:18.746312 2022] [mpm_winnt:notice] [pid 18528:tid 344] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 20 17:47:52.422448 2022] [php:warn] [pid 18528:tid 1856] [client ::1:50029] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 17:47:52.422993 2022] [php:warn] [pid 18528:tid 1856] [client ::1:50029] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 17:52:43.860856 2022] [php:warn] [pid 18528:tid 1852] [client ::1:50204] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 21:11:24.796717 2022] [ssl:warn] [pid 4304:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 21:11:24.874197 2022] [core:warn] [pid 4304:tid 396] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 20 21:11:24.877054 2022] [ssl:warn] [pid 4304:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 21:11:24.921422 2022] [mpm_winnt:notice] [pid 4304:tid 396] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Apr 20 21:11:24.921422 2022] [mpm_winnt:notice] [pid 4304:tid 396] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Apr 20 21:11:24.921422 2022] [core:notice] [pid 4304:tid 396] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 20 21:11:24.933155 2022] [mpm_winnt:notice] [pid 4304:tid 396] AH00418: Parent: Created child process 20368
+[Wed Apr 20 21:11:25.214702 2022] [ssl:warn] [pid 20368:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 21:11:25.327708 2022] [ssl:warn] [pid 20368:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 20 21:11:25.375278 2022] [mpm_winnt:notice] [pid 20368:tid 328] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 20 21:11:36.774983 2022] [php:warn] [pid 20368:tid 1872] [client ::1:51255] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 21:11:36.774983 2022] [php:warn] [pid 20368:tid 1872] [client ::1:51255] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 21:15:02.180904 2022] [php:warn] [pid 20368:tid 1872] [client ::1:51304] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 21:15:03.249678 2022] [php:warn] [pid 20368:tid 1872] [client ::1:51304] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 21:15:09.450878 2022] [php:warn] [pid 20368:tid 1872] [client ::1:51304] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 21:16:05.287828 2022] [php:warn] [pid 20368:tid 1848] [client ::1:51345] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 21:16:47.488503 2022] [php:warn] [pid 20368:tid 1860] [client ::1:51390] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 21:22:01.208943 2022] [php:warn] [pid 20368:tid 1872] [client ::1:51459] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 21:22:01.209957 2022] [php:warn] [pid 20368:tid 1872] [client ::1:51459] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 21:27:08.438067 2022] [php:warn] [pid 20368:tid 1840] [client ::1:51566] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 20 21:27:08.439066 2022] [php:warn] [pid 20368:tid 1840] [client ::1:51566] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 20 21:27:24.321180 2022] [php:warn] [pid 20368:tid 1840] [client ::1:51569] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:38:29.054507 2022] [ssl:warn] [pid 20352:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:29.166502 2022] [core:warn] [pid 20352:tid 360] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 21 10:38:29.167264 2022] [ssl:warn] [pid 20352:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:29.219557 2022] [mpm_winnt:notice] [pid 20352:tid 360] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Apr 21 10:38:29.219557 2022] [mpm_winnt:notice] [pid 20352:tid 360] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Apr 21 10:38:29.219557 2022] [core:notice] [pid 20352:tid 360] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Apr 21 10:38:29.228297 2022] [mpm_winnt:notice] [pid 20352:tid 360] AH00418: Parent: Created child process 9888
+[Thu Apr 21 10:38:29.512065 2022] [ssl:warn] [pid 9888:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:29.612246 2022] [ssl:warn] [pid 9888:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:29.664144 2022] [mpm_winnt:notice] [pid 9888:tid 324] AH00354: Child: Starting 150 worker threads.
+[Thu Apr 21 10:38:35.755567 2022] [ssl:warn] [pid 10056:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:35.860250 2022] [core:warn] [pid 10056:tid 332] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 21 10:38:35.860250 2022] [ssl:warn] [pid 10056:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:35.900314 2022] [mpm_winnt:notice] [pid 10056:tid 332] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Apr 21 10:38:35.900314 2022] [mpm_winnt:notice] [pid 10056:tid 332] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Apr 21 10:38:35.900314 2022] [core:notice] [pid 10056:tid 332] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Apr 21 10:38:35.910754 2022] [mpm_winnt:notice] [pid 10056:tid 332] AH00418: Parent: Created child process 21724
+[Thu Apr 21 10:38:36.170014 2022] [ssl:warn] [pid 21724:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:36.273364 2022] [ssl:warn] [pid 21724:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 10:38:36.326068 2022] [mpm_winnt:notice] [pid 21724:tid 328] AH00354: Child: Starting 150 worker threads.
+[Thu Apr 21 10:38:50.019005 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52864] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:38:50.020052 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52864] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Apr 21 10:41:16.363945 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52936] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:41:18.099200 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52936] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:41:19.720410 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52936] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:41:19.948851 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52936] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:41:20.206583 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52936] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:41:35.871325 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52952] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:41:36.085729 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52952] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:42:11.052202 2022] [php:warn] [pid 21724:tid 1876] [client ::1:52962] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:42:19.142991 2022] [php:warn] [pid 21724:tid 1868] [client ::1:53004] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:42:40.224965 2022] [php:warn] [pid 21724:tid 1876] [client ::1:53008] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:42:43.562685 2022] [php:warn] [pid 21724:tid 1876] [client ::1:53008] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 10:43:18.893994 2022] [php:warn] [pid 21724:tid 1868] [client ::1:53068] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 17:21:43.863670 2022] [ssl:warn] [pid 4920:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 17:21:43.975880 2022] [core:warn] [pid 4920:tid 328] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 21 17:21:43.977678 2022] [ssl:warn] [pid 4920:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 17:21:44.035861 2022] [mpm_winnt:notice] [pid 4920:tid 328] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Apr 21 17:21:44.035861 2022] [mpm_winnt:notice] [pid 4920:tid 328] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Apr 21 17:21:44.035861 2022] [core:notice] [pid 4920:tid 328] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Apr 21 17:21:44.039890 2022] [mpm_winnt:notice] [pid 4920:tid 328] AH00418: Parent: Created child process 8932
+[Thu Apr 21 17:21:44.328871 2022] [ssl:warn] [pid 8932:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 17:21:44.441378 2022] [ssl:warn] [pid 8932:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 17:21:44.497584 2022] [mpm_winnt:notice] [pid 8932:tid 352] AH00354: Child: Starting 150 worker threads.
+[Thu Apr 21 17:22:51.429067 2022] [php:warn] [pid 8932:tid 1856] [client ::1:54264] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 17:22:51.429067 2022] [php:warn] [pid 8932:tid 1856] [client ::1:54264] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Apr 21 17:22:51.661169 2022] [php:warn] [pid 8932:tid 1856] [client ::1:54264] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 17:22:51.661169 2022] [php:warn] [pid 8932:tid 1856] [client ::1:54264] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Apr 21 22:38:59.501726 2022] [ssl:warn] [pid 26472:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 22:38:59.629853 2022] [core:warn] [pid 26472:tid 344] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 21 22:38:59.633099 2022] [ssl:warn] [pid 26472:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 22:38:59.685468 2022] [mpm_winnt:notice] [pid 26472:tid 344] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Apr 21 22:38:59.685468 2022] [mpm_winnt:notice] [pid 26472:tid 344] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Apr 21 22:38:59.685468 2022] [core:notice] [pid 26472:tid 344] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Apr 21 22:38:59.694309 2022] [mpm_winnt:notice] [pid 26472:tid 344] AH00418: Parent: Created child process 26072
+[Thu Apr 21 22:39:00.116195 2022] [ssl:warn] [pid 26072:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 22:39:00.231070 2022] [ssl:warn] [pid 26072:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 21 22:39:00.283698 2022] [mpm_winnt:notice] [pid 26072:tid 344] AH00354: Child: Starting 150 worker threads.
+[Thu Apr 21 22:39:04.533549 2022] [php:warn] [pid 26072:tid 1880] [client ::1:51629] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 22:39:04.533549 2022] [php:warn] [pid 26072:tid 1880] [client ::1:51629] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Apr 21 23:15:17.152417 2022] [php:warn] [pid 26072:tid 1852] [client ::1:58547] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/AMS/AMS.php
+[Thu Apr 21 23:15:20.399402 2022] [php:warn] [pid 26072:tid 1852] [client ::1:58547] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/AMS/AMS.php
+[Thu Apr 21 23:15:20.435078 2022] [php:warn] [pid 26072:tid 1864] [client ::1:58559] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/AMS/AMS.php
+[Thu Apr 21 23:16:18.415378 2022] [php:warn] [pid 26072:tid 1864] [client ::1:58601] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/AMS/AMS.php
+[Thu Apr 21 23:16:53.503923 2022] [php:warn] [pid 26072:tid 1852] [client ::1:58618] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/AMS/AMS.php
+[Thu Apr 21 23:24:15.375568 2022] [php:warn] [pid 26072:tid 1852] [client ::1:58883] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 23:24:22.946194 2022] [php:warn] [pid 26072:tid 1852] [client ::1:58883] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 21 23:25:40.668501 2022] [php:warn] [pid 26072:tid 1880] [client ::1:58930] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 07:55:43.205406 2022] [ssl:warn] [pid 16836:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 07:55:43.322657 2022] [core:warn] [pid 16836:tid 332] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 22 07:55:43.325051 2022] [ssl:warn] [pid 16836:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 07:55:43.369284 2022] [mpm_winnt:notice] [pid 16836:tid 332] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri Apr 22 07:55:43.369284 2022] [mpm_winnt:notice] [pid 16836:tid 332] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri Apr 22 07:55:43.369284 2022] [core:notice] [pid 16836:tid 332] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 22 07:55:43.384817 2022] [mpm_winnt:notice] [pid 16836:tid 332] AH00418: Parent: Created child process 5884
+[Fri Apr 22 07:55:43.694007 2022] [ssl:warn] [pid 5884:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 07:55:43.816542 2022] [ssl:warn] [pid 5884:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 07:55:43.866537 2022] [mpm_winnt:notice] [pid 5884:tid 324] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 07:55:59.232110 2022] [php:warn] [pid 5884:tid 1892] [client ::1:57725] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 07:55:59.232110 2022] [php:warn] [pid 5884:tid 1892] [client ::1:57725] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 07:55:59.428929 2022] [php:warn] [pid 5884:tid 1892] [client ::1:57725] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 07:55:59.428929 2022] [php:warn] [pid 5884:tid 1892] [client ::1:57725] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 07:57:07.293369 2022] [php:warn] [pid 5884:tid 1864] [client ::1:57747] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 10:43:04.151812 2022] [ssl:warn] [pid 13796:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 10:43:04.236521 2022] [core:warn] [pid 13796:tid 332] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 22 10:43:04.240052 2022] [ssl:warn] [pid 13796:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 10:43:19.945982 2022] [mpm_winnt:notice] [pid 13796:tid 332] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri Apr 22 10:43:19.945982 2022] [mpm_winnt:notice] [pid 13796:tid 332] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri Apr 22 10:43:19.945982 2022] [core:notice] [pid 13796:tid 332] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 22 10:43:19.961980 2022] [mpm_winnt:notice] [pid 13796:tid 332] AH00418: Parent: Created child process 19664
+[Fri Apr 22 10:43:20.356508 2022] [ssl:warn] [pid 19664:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 10:43:20.434881 2022] [ssl:warn] [pid 19664:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 10:43:20.483612 2022] [mpm_winnt:notice] [pid 19664:tid 336] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 10:43:20.506255 2022] [php:warn] [pid 19664:tid 1860] [client 127.0.0.1:49911] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 10:43:20.506255 2022] [php:warn] [pid 19664:tid 1856] [client ::1:49904] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 10:43:20.506255 2022] [php:warn] [pid 19664:tid 1860] [client 127.0.0.1:49911] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 10:43:20.506255 2022] [php:warn] [pid 19664:tid 1856] [client ::1:49904] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 10:43:20.528541 2022] [php:warn] [pid 19664:tid 1864] [client 127.0.0.1:49899] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 10:43:20.528541 2022] [php:warn] [pid 19664:tid 1864] [client 127.0.0.1:49899] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 16:33:22.738074 2022] [ssl:warn] [pid 15220:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 16:33:22.831814 2022] [core:warn] [pid 15220:tid 352] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 22 16:33:22.831814 2022] [ssl:warn] [pid 15220:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 16:33:22.878684 2022] [mpm_winnt:notice] [pid 15220:tid 352] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri Apr 22 16:33:22.878684 2022] [mpm_winnt:notice] [pid 15220:tid 352] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri Apr 22 16:33:22.878684 2022] [core:notice] [pid 15220:tid 352] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 22 16:33:22.894307 2022] [mpm_winnt:notice] [pid 15220:tid 352] AH00418: Parent: Created child process 17616
+[Fri Apr 22 16:33:23.348074 2022] [ssl:warn] [pid 17616:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 16:33:23.410499 2022] [ssl:warn] [pid 17616:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 16:33:23.472990 2022] [mpm_winnt:notice] [pid 17616:tid 348] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 16:33:34.933266 2022] [php:warn] [pid 17616:tid 1892] [client ::1:50195] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 16:33:34.933266 2022] [php:warn] [pid 17616:tid 1892] [client ::1:50195] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 16:33:35.098434 2022] [php:warn] [pid 17616:tid 1860] [client ::1:50196] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 16:33:35.098434 2022] [php:warn] [pid 17616:tid 1860] [client ::1:50196] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 16:43:57.042893 2022] [php:warn] [pid 17616:tid 1860] [client ::1:50485] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 16:44:02.699038 2022] [php:warn] [pid 17616:tid 1840] [client ::1:50486] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 16:44:04.600573 2022] [php:warn] [pid 17616:tid 1840] [client ::1:50486] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 19:20:22.865329 2022] [ssl:warn] [pid 11692:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 19:20:22.966730 2022] [core:warn] [pid 11692:tid 380] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 22 19:20:22.969638 2022] [ssl:warn] [pid 11692:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 19:20:23.016239 2022] [mpm_winnt:notice] [pid 11692:tid 380] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri Apr 22 19:20:23.016239 2022] [mpm_winnt:notice] [pid 11692:tid 380] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri Apr 22 19:20:23.016239 2022] [core:notice] [pid 11692:tid 380] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 22 19:20:23.026090 2022] [mpm_winnt:notice] [pid 11692:tid 380] AH00418: Parent: Created child process 18936
+[Fri Apr 22 19:20:23.304530 2022] [ssl:warn] [pid 18936:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 19:20:23.402951 2022] [ssl:warn] [pid 18936:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 22 19:20:23.446137 2022] [mpm_winnt:notice] [pid 18936:tid 336] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 22 19:20:47.093022 2022] [php:warn] [pid 18936:tid 1872] [client ::1:50717] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 19:20:47.093022 2022] [php:warn] [pid 18936:tid 1872] [client ::1:50717] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Apr 22 19:20:47.259769 2022] [php:warn] [pid 18936:tid 1872] [client ::1:50717] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri Apr 22 19:20:47.259769 2022] [php:warn] [pid 18936:tid 1872] [client ::1:50717] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Mon Apr 25 18:55:31.389591 2022] [ssl:warn] [pid 19404:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 18:55:31.448417 2022] [core:warn] [pid 19404:tid 348] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 25 18:55:31.449993 2022] [ssl:warn] [pid 19404:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 18:55:31.490250 2022] [mpm_winnt:notice] [pid 19404:tid 348] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Mon Apr 25 18:55:31.490250 2022] [mpm_winnt:notice] [pid 19404:tid 348] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Mon Apr 25 18:55:31.490250 2022] [core:notice] [pid 19404:tid 348] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Apr 25 18:55:31.493059 2022] [mpm_winnt:notice] [pid 19404:tid 348] AH00418: Parent: Created child process 22624
+[Mon Apr 25 18:55:31.745601 2022] [ssl:warn] [pid 22624:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 18:55:31.804679 2022] [ssl:warn] [pid 22624:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 18:55:31.845878 2022] [mpm_winnt:notice] [pid 22624:tid 332] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 25 18:56:38.688654 2022] [php:warn] [pid 22624:tid 1852] [client ::1:51748] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Mon Apr 25 18:56:38.688654 2022] [php:warn] [pid 22624:tid 1852] [client ::1:51748] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Mon Apr 25 22:34:07.717321 2022] [ssl:warn] [pid 19300:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 22:34:07.821840 2022] [core:warn] [pid 19300:tid 372] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 25 22:34:07.823876 2022] [ssl:warn] [pid 19300:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 22:34:07.873800 2022] [mpm_winnt:notice] [pid 19300:tid 372] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Mon Apr 25 22:34:07.873800 2022] [mpm_winnt:notice] [pid 19300:tid 372] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Mon Apr 25 22:34:07.874800 2022] [core:notice] [pid 19300:tid 372] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Apr 25 22:34:07.876807 2022] [mpm_winnt:notice] [pid 19300:tid 372] AH00418: Parent: Created child process 8028
+[Mon Apr 25 22:34:08.164409 2022] [ssl:warn] [pid 8028:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 22:34:08.268061 2022] [ssl:warn] [pid 8028:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 25 22:34:08.318238 2022] [mpm_winnt:notice] [pid 8028:tid 344] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 25 22:34:57.592494 2022] [php:warn] [pid 8028:tid 1904] [client ::1:52327] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Mon Apr 25 22:34:57.593589 2022] [php:warn] [pid 8028:tid 1904] [client ::1:52327] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Mon Apr 25 22:39:11.691965 2022] [php:warn] [pid 8028:tid 1856] [client ::1:52511] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Mon Apr 25 23:09:22.729612 2022] [php:warn] [pid 8028:tid 1868] [client ::1:53649] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Mon Apr 25 23:09:28.866282 2022] [php:warn] [pid 8028:tid 1904] [client ::1:53666] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Mon Apr 25 23:25:14.300299 2022] [php:warn] [pid 8028:tid 1904] [client ::1:54204] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Mon Apr 25 23:25:14.301279 2022] [php:warn] [pid 8028:tid 1904] [client ::1:54204] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Wed Apr 27 16:33:53.920858 2022] [ssl:warn] [pid 17324:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 27 16:33:54.030221 2022] [core:warn] [pid 17324:tid 352] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 27 16:33:54.033578 2022] [ssl:warn] [pid 17324:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 27 16:33:54.084679 2022] [mpm_winnt:notice] [pid 17324:tid 352] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Apr 27 16:33:54.084679 2022] [mpm_winnt:notice] [pid 17324:tid 352] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Apr 27 16:33:54.084679 2022] [core:notice] [pid 17324:tid 352] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 27 16:33:54.091800 2022] [mpm_winnt:notice] [pid 17324:tid 352] AH00418: Parent: Created child process 12324
+[Wed Apr 27 16:33:54.392162 2022] [ssl:warn] [pid 12324:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 27 16:33:54.499462 2022] [ssl:warn] [pid 12324:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 27 16:33:54.550756 2022] [mpm_winnt:notice] [pid 12324:tid 368] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 27 16:34:42.361401 2022] [php:warn] [pid 12324:tid 1892] [client ::1:58374] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Apr 27 16:34:42.362402 2022] [php:warn] [pid 12324:tid 1892] [client ::1:58374] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Apr 28 14:03:13.676378 2022] [ssl:warn] [pid 13636:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 14:03:13.770118 2022] [core:warn] [pid 13636:tid 344] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 28 14:03:13.770118 2022] [ssl:warn] [pid 13636:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 14:03:13.816992 2022] [mpm_winnt:notice] [pid 13636:tid 344] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Apr 28 14:03:13.816992 2022] [mpm_winnt:notice] [pid 13636:tid 344] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Apr 28 14:03:13.816992 2022] [core:notice] [pid 13636:tid 344] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Apr 28 14:03:13.816992 2022] [mpm_winnt:notice] [pid 13636:tid 344] AH00418: Parent: Created child process 25260
+[Thu Apr 28 14:03:14.254445 2022] [ssl:warn] [pid 25260:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 14:03:14.348181 2022] [ssl:warn] [pid 25260:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 14:03:14.395055 2022] [mpm_winnt:notice] [pid 25260:tid 328] AH00354: Child: Starting 150 worker threads.
+[Thu Apr 28 16:37:55.589883 2022] [ssl:warn] [pid 10548:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 16:37:55.661843 2022] [core:warn] [pid 10548:tid 352] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 28 16:37:55.664916 2022] [ssl:warn] [pid 10548:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 16:37:55.722756 2022] [mpm_winnt:notice] [pid 10548:tid 352] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Apr 28 16:37:55.722756 2022] [mpm_winnt:notice] [pid 10548:tid 352] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Apr 28 16:37:55.722756 2022] [core:notice] [pid 10548:tid 352] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Apr 28 16:37:55.726245 2022] [mpm_winnt:notice] [pid 10548:tid 352] AH00418: Parent: Created child process 21784
+[Thu Apr 28 16:37:56.053282 2022] [ssl:warn] [pid 21784:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 16:37:56.130824 2022] [ssl:warn] [pid 21784:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 16:37:56.177811 2022] [mpm_winnt:notice] [pid 21784:tid 340] AH00354: Child: Starting 150 worker threads.
+[Thu Apr 28 16:42:57.196685 2022] [php:warn] [pid 21784:tid 1864] [client ::1:59881] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Apr 28 16:42:57.197685 2022] [php:warn] [pid 21784:tid 1864] [client ::1:59881] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Mon May 02 19:20:21.058485 2022] [ssl:warn] [pid 16328:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 02 19:20:21.169955 2022] [core:warn] [pid 16328:tid 364] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 02 19:20:21.172533 2022] [ssl:warn] [pid 16328:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 02 19:20:21.340382 2022] [mpm_winnt:notice] [pid 16328:tid 364] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Mon May 02 19:20:21.340382 2022] [mpm_winnt:notice] [pid 16328:tid 364] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Mon May 02 19:20:21.340382 2022] [core:notice] [pid 16328:tid 364] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon May 02 19:20:21.344451 2022] [mpm_winnt:notice] [pid 16328:tid 364] AH00418: Parent: Created child process 10964
+[Mon May 02 19:20:21.778205 2022] [ssl:warn] [pid 10964:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 02 19:20:21.858440 2022] [ssl:warn] [pid 10964:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 02 19:20:21.912181 2022] [mpm_winnt:notice] [pid 10964:tid 328] AH00354: Child: Starting 150 worker threads.
+[Mon May 02 19:20:45.525727 2022] [php:warn] [pid 10964:tid 1856] [client ::1:60277] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Mon May 02 19:20:45.526728 2022] [php:warn] [pid 10964:tid 1856] [client ::1:60277] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Tue May 17 16:39:54.821707 2022] [ssl:warn] [pid 27092:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 17 16:39:54.935217 2022] [core:warn] [pid 27092:tid 344] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 17 16:39:54.937310 2022] [ssl:warn] [pid 27092:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 17 16:39:54.983669 2022] [mpm_winnt:notice] [pid 27092:tid 344] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Tue May 17 16:39:54.983669 2022] [mpm_winnt:notice] [pid 27092:tid 344] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Tue May 17 16:39:54.983669 2022] [core:notice] [pid 27092:tid 344] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 17 16:39:54.993923 2022] [mpm_winnt:notice] [pid 27092:tid 344] AH00418: Parent: Created child process 18716
+[Tue May 17 16:39:55.273351 2022] [ssl:warn] [pid 18716:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 17 16:39:55.386773 2022] [ssl:warn] [pid 18716:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 17 16:39:55.434160 2022] [mpm_winnt:notice] [pid 18716:tid 324] AH00354: Child: Starting 150 worker threads.
+[Tue May 17 16:45:11.422824 2022] [php:warn] [pid 18716:tid 1876] [client ::1:63456] PHP Warning:  include(./db_connect.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\pro\\project1.php on line 5
+[Tue May 17 16:45:11.422824 2022] [php:warn] [pid 18716:tid 1876] [client ::1:63456] PHP Warning:  include(): Failed opening './db_connect.php' for inclusion (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\pro\\project1.php on line 5
+[Tue May 17 16:45:11.424381 2022] [php:warn] [pid 18716:tid 1876] [client ::1:63456] PHP Warning:  Undefined variable $conn in C:\\xampp\\htdocs\\pro\\project1.php on line 8
+[Tue May 17 16:45:11.428014 2022] [php:error] [pid 18716:tid 1876] [client ::1:63456] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\\xampp\\htdocs\\pro\\project1.php:8\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\pro\\project1.php on line 8
+[Thu May 19 14:01:08.610319 2022] [ssl:warn] [pid 20972:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 14:01:08.718727 2022] [core:warn] [pid 20972:tid 384] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 19 14:01:08.722620 2022] [ssl:warn] [pid 20972:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 14:01:08.796355 2022] [mpm_winnt:notice] [pid 20972:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu May 19 14:01:08.796355 2022] [mpm_winnt:notice] [pid 20972:tid 384] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu May 19 14:01:08.796355 2022] [core:notice] [pid 20972:tid 384] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu May 19 14:01:08.803050 2022] [mpm_winnt:notice] [pid 20972:tid 384] AH00418: Parent: Created child process 13972
+[Thu May 19 14:01:09.188909 2022] [ssl:warn] [pid 13972:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 14:01:09.290905 2022] [ssl:warn] [pid 13972:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 14:01:09.350333 2022] [mpm_winnt:notice] [pid 13972:tid 368] AH00354: Child: Starting 150 worker threads.
+[Thu May 19 14:01:09.886090 2022] [php:warn] [pid 13972:tid 1856] [client 127.0.0.1:53063] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 14:01:09.887087 2022] [php:warn] [pid 13972:tid 1856] [client 127.0.0.1:53063] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu May 19 16:32:57.855661 2022] [ssl:warn] [pid 19676:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 16:32:57.924105 2022] [core:warn] [pid 19676:tid 340] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 19 16:32:57.926679 2022] [ssl:warn] [pid 19676:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 16:33:03.876930 2022] [mpm_winnt:notice] [pid 19676:tid 340] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu May 19 16:33:03.877936 2022] [mpm_winnt:notice] [pid 19676:tid 340] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu May 19 16:33:03.877936 2022] [core:notice] [pid 19676:tid 340] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu May 19 16:33:03.882995 2022] [mpm_winnt:notice] [pid 19676:tid 340] AH00418: Parent: Created child process 17188
+[Thu May 19 16:33:04.180097 2022] [ssl:warn] [pid 17188:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 16:33:04.277344 2022] [ssl:warn] [pid 17188:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 16:33:04.327307 2022] [mpm_winnt:notice] [pid 17188:tid 352] AH00354: Child: Starting 150 worker threads.
+[Thu May 19 16:33:04.353157 2022] [php:warn] [pid 17188:tid 1872] [client 127.0.0.1:49945] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 16:33:04.354234 2022] [php:warn] [pid 17188:tid 1872] [client 127.0.0.1:49945] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu May 19 18:23:58.849573 2022] [ssl:warn] [pid 18092:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 18:23:58.931824 2022] [core:warn] [pid 18092:tid 340] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 19 18:23:58.933529 2022] [ssl:warn] [pid 18092:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 18:23:58.985313 2022] [mpm_winnt:notice] [pid 18092:tid 340] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu May 19 18:23:58.985313 2022] [mpm_winnt:notice] [pid 18092:tid 340] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu May 19 18:23:58.985313 2022] [core:notice] [pid 18092:tid 340] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu May 19 18:23:58.990272 2022] [mpm_winnt:notice] [pid 18092:tid 340] AH00418: Parent: Created child process 15080
+[Thu May 19 18:23:59.253205 2022] [ssl:warn] [pid 15080:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 18:23:59.342224 2022] [ssl:warn] [pid 15080:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 19 18:23:59.387364 2022] [mpm_winnt:notice] [pid 15080:tid 328] AH00354: Child: Starting 150 worker threads.
+[Thu May 19 18:24:08.141975 2022] [php:warn] [pid 15080:tid 1864] [client ::1:50341] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:24:08.141975 2022] [php:warn] [pid 15080:tid 1864] [client ::1:50341] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu May 19 18:26:20.711268 2022] [php:warn] [pid 15080:tid 1856] [client ::1:50381] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:26:20.712366 2022] [php:warn] [pid 15080:tid 1856] [client ::1:50381] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu May 19 18:26:25.475595 2022] [php:warn] [pid 15080:tid 1856] [client ::1:50381] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:26:25.475595 2022] [php:warn] [pid 15080:tid 1856] [client ::1:50381] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu May 19 18:26:25.708077 2022] [php:warn] [pid 15080:tid 1856] [client ::1:50381] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:26:25.708077 2022] [php:warn] [pid 15080:tid 1856] [client ::1:50381] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu May 19 18:30:26.447311 2022] [php:warn] [pid 15080:tid 1856] [client ::1:50410] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:45:10.441553 2022] [php:warn] [pid 15080:tid 1864] [client ::1:50492] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:53:07.957147 2022] [php:warn] [pid 15080:tid 1864] [client ::1:50567] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:53:07.957147 2022] [php:warn] [pid 15080:tid 1864] [client ::1:50567] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu May 19 18:53:08.177480 2022] [php:warn] [pid 15080:tid 1864] [client ::1:50567] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu May 19 18:53:08.177480 2022] [php:warn] [pid 15080:tid 1864] [client ::1:50567] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri May 20 11:06:16.305969 2022] [ssl:warn] [pid 12992:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 20 11:06:16.398706 2022] [core:warn] [pid 12992:tid 336] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 20 11:06:16.401243 2022] [ssl:warn] [pid 12992:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 20 11:06:16.449100 2022] [mpm_winnt:notice] [pid 12992:tid 336] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri May 20 11:06:16.449100 2022] [mpm_winnt:notice] [pid 12992:tid 336] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri May 20 11:06:16.449100 2022] [core:notice] [pid 12992:tid 336] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri May 20 11:06:16.452839 2022] [mpm_winnt:notice] [pid 12992:tid 336] AH00418: Parent: Created child process 10624
+[Fri May 20 11:06:16.732486 2022] [ssl:warn] [pid 10624:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 20 11:06:16.828098 2022] [ssl:warn] [pid 10624:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 20 11:06:16.876613 2022] [mpm_winnt:notice] [pid 10624:tid 332] AH00354: Child: Starting 150 worker threads.
+[Fri May 20 11:36:10.247225 2022] [php:warn] [pid 10624:tid 1840] [client ::1:57784] PHP Warning:  Undefined array key "bg" in C:\\xampp\\htdocs\\bloodbank\\file\\infoAdd.php on line 11, referer: http://localhost/bloodbank/bloodinfo.php?msg=You%20have%20added%20record%20successfully.
+[Sun May 22 11:41:29.636748 2022] [ssl:warn] [pid 10084:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 22 11:41:29.744394 2022] [core:warn] [pid 10084:tid 340] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 22 11:41:29.749317 2022] [ssl:warn] [pid 10084:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 22 11:41:29.794416 2022] [mpm_winnt:notice] [pid 10084:tid 340] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Sun May 22 11:41:29.794416 2022] [mpm_winnt:notice] [pid 10084:tid 340] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Sun May 22 11:41:29.794416 2022] [core:notice] [pid 10084:tid 340] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun May 22 11:41:29.808079 2022] [mpm_winnt:notice] [pid 10084:tid 340] AH00418: Parent: Created child process 15348
+[Sun May 22 11:41:30.104608 2022] [ssl:warn] [pid 15348:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 22 11:41:30.206660 2022] [ssl:warn] [pid 15348:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 22 11:41:30.264283 2022] [mpm_winnt:notice] [pid 15348:tid 328] AH00354: Child: Starting 150 worker threads.
+[Tue May 24 20:06:10.463340 2022] [ssl:warn] [pid 14016:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 24 20:06:10.566909 2022] [core:warn] [pid 14016:tid 360] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 24 20:06:10.569496 2022] [ssl:warn] [pid 14016:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 24 20:06:10.618119 2022] [mpm_winnt:notice] [pid 14016:tid 360] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Tue May 24 20:06:10.618119 2022] [mpm_winnt:notice] [pid 14016:tid 360] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Tue May 24 20:06:10.618119 2022] [core:notice] [pid 14016:tid 360] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 24 20:06:10.623373 2022] [mpm_winnt:notice] [pid 14016:tid 360] AH00418: Parent: Created child process 20368
+[Tue May 24 20:06:10.912346 2022] [ssl:warn] [pid 20368:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 24 20:06:11.020477 2022] [ssl:warn] [pid 20368:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 24 20:06:11.077101 2022] [mpm_winnt:notice] [pid 20368:tid 344] AH00354: Child: Starting 150 worker threads.
+[Tue May 24 20:06:48.747088 2022] [php:error] [pid 20368:tid 1892] [client ::1:60255] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\\xampp\\htdocs\\bloodbank\\file\\connection.php:6\nStack trace:\n#0 C:\\xampp\\htdocs\\bloodbank\\file\\connection.php(6): mysqli->__construct('localhost', 'root', '', 'bloodbank')\n#1 C:\\xampp\\htdocs\\bloodbank\\file\\hospitalLogin.php(3): require('C:\\\\xampp\\\\htdocs...')\n#2 {main}\n  thrown in C:\\xampp\\htdocs\\bloodbank\\file\\connection.php on line 6, referer: http://localhost/bloodbank/login.php
+[Tue May 24 20:07:02.028604 2022] [php:error] [pid 20368:tid 1892] [client ::1:60255] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\\xampp\\htdocs\\bloodbank\\file\\connection.php:6\nStack trace:\n#0 C:\\xampp\\htdocs\\bloodbank\\file\\connection.php(6): mysqli->__construct('localhost', 'root', '', 'bloodbank')\n#1 C:\\xampp\\htdocs\\bloodbank\\file\\receiverLogin.php(3): require('C:\\\\xampp\\\\htdocs...')\n#2 {main}\n  thrown in C:\\xampp\\htdocs\\bloodbank\\file\\connection.php on line 6, referer: http://localhost/bloodbank/login.php
+[Thu May 26 14:45:49.708944 2022] [ssl:warn] [pid 24488:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 26 14:45:49.799695 2022] [core:warn] [pid 24488:tid 372] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 26 14:45:49.801696 2022] [ssl:warn] [pid 24488:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 26 14:45:49.856822 2022] [mpm_winnt:notice] [pid 24488:tid 372] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu May 26 14:45:49.856822 2022] [mpm_winnt:notice] [pid 24488:tid 372] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu May 26 14:45:49.856822 2022] [core:notice] [pid 24488:tid 372] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu May 26 14:45:49.862222 2022] [mpm_winnt:notice] [pid 24488:tid 372] AH00418: Parent: Created child process 25692
+[Thu May 26 14:45:50.154488 2022] [ssl:warn] [pid 25692:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 26 14:45:50.249739 2022] [ssl:warn] [pid 25692:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 26 14:45:50.289279 2022] [mpm_winnt:notice] [pid 25692:tid 352] AH00354: Child: Starting 150 worker threads.
+[Fri May 27 14:21:27.715801 2022] [ssl:warn] [pid 12496:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 14:21:27.773149 2022] [core:warn] [pid 12496:tid 328] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 27 14:21:27.776197 2022] [ssl:warn] [pid 12496:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 14:21:27.819022 2022] [mpm_winnt:notice] [pid 12496:tid 328] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri May 27 14:21:27.819022 2022] [mpm_winnt:notice] [pid 12496:tid 328] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri May 27 14:21:27.819022 2022] [core:notice] [pid 12496:tid 328] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri May 27 14:21:27.823519 2022] [mpm_winnt:notice] [pid 12496:tid 328] AH00418: Parent: Created child process 14376
+[Fri May 27 14:21:28.169187 2022] [ssl:warn] [pid 14376:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 14:21:28.222848 2022] [ssl:warn] [pid 14376:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 14:21:28.260133 2022] [mpm_winnt:notice] [pid 14376:tid 368] AH00354: Child: Starting 150 worker threads.
+[Fri May 27 21:30:51.040894 2022] [ssl:warn] [pid 20216:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 21:30:51.140433 2022] [core:warn] [pid 20216:tid 356] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 27 21:30:51.144352 2022] [ssl:warn] [pid 20216:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 21:30:51.197633 2022] [mpm_winnt:notice] [pid 20216:tid 356] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri May 27 21:30:51.197633 2022] [mpm_winnt:notice] [pid 20216:tid 356] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri May 27 21:30:51.197633 2022] [core:notice] [pid 20216:tid 356] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri May 27 21:30:51.200686 2022] [mpm_winnt:notice] [pid 20216:tid 356] AH00418: Parent: Created child process 10704
+[Fri May 27 21:30:51.677579 2022] [ssl:warn] [pid 10704:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 21:30:51.758021 2022] [ssl:warn] [pid 10704:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 27 21:30:51.805750 2022] [mpm_winnt:notice] [pid 10704:tid 348] AH00354: Child: Starting 150 worker threads.
+[Fri May 27 21:30:59.275381 2022] [php:warn] [pid 10704:tid 1864] [client ::1:65429] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Fri May 27 21:30:59.276385 2022] [php:warn] [pid 10704:tid 1864] [client ::1:65429] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Fri Jun 03 21:01:18.695974 2022] [ssl:warn] [pid 10332:tid 176] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 03 21:01:18.789715 2022] [core:warn] [pid 10332:tid 176] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jun 03 21:01:18.789715 2022] [ssl:warn] [pid 10332:tid 176] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 03 21:01:18.914701 2022] [mpm_winnt:notice] [pid 10332:tid 176] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri Jun 03 21:01:18.914701 2022] [mpm_winnt:notice] [pid 10332:tid 176] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri Jun 03 21:01:18.914701 2022] [core:notice] [pid 10332:tid 176] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jun 03 21:01:18.914701 2022] [mpm_winnt:notice] [pid 10332:tid 176] AH00418: Parent: Created child process 9380
+[Fri Jun 03 21:01:19.227170 2022] [ssl:warn] [pid 9380:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 03 21:01:19.289661 2022] [ssl:warn] [pid 9380:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 03 21:01:19.336532 2022] [mpm_winnt:notice] [pid 9380:tid 348] AH00354: Child: Starting 150 worker threads.
+[Wed Jun 08 09:21:46.841262 2022] [ssl:warn] [pid 19192:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 08 09:21:46.947935 2022] [core:warn] [pid 19192:tid 352] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 08 09:21:46.951003 2022] [ssl:warn] [pid 19192:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 08 09:21:47.004557 2022] [mpm_winnt:notice] [pid 19192:tid 352] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Jun 08 09:21:47.004557 2022] [mpm_winnt:notice] [pid 19192:tid 352] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Jun 08 09:21:47.004557 2022] [core:notice] [pid 19192:tid 352] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jun 08 09:21:47.013587 2022] [mpm_winnt:notice] [pid 19192:tid 352] AH00418: Parent: Created child process 20680
+[Wed Jun 08 09:21:47.349971 2022] [ssl:warn] [pid 20680:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 08 09:21:47.466270 2022] [ssl:warn] [pid 20680:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 08 09:21:47.518488 2022] [mpm_winnt:notice] [pid 20680:tid 348] AH00354: Child: Starting 150 worker threads.
+[Wed Jun 08 09:23:01.438221 2022] [php:warn] [pid 20680:tid 1924] [client ::1:50736] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Wed Jun 08 09:23:01.439240 2022] [php:warn] [pid 20680:tid 1924] [client ::1:50736] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 09:52:40.839214 2022] [ssl:warn] [pid 33364:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 09:52:40.918528 2022] [core:warn] [pid 33364:tid 384] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 09 09:52:40.921317 2022] [ssl:warn] [pid 33364:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 09:52:40.970133 2022] [mpm_winnt:notice] [pid 33364:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Jun 09 09:52:40.971129 2022] [mpm_winnt:notice] [pid 33364:tid 384] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Jun 09 09:52:40.971129 2022] [core:notice] [pid 33364:tid 384] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 09 09:52:40.973807 2022] [mpm_winnt:notice] [pid 33364:tid 384] AH00418: Parent: Created child process 27800
+[Thu Jun 09 09:52:41.388212 2022] [ssl:warn] [pid 27800:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 09:52:41.499608 2022] [ssl:warn] [pid 27800:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 09:52:41.544289 2022] [mpm_winnt:notice] [pid 27800:tid 332] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 09 10:35:52.889752 2022] [php:warn] [pid 27800:tid 1916] [client ::1:52516] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 10:35:52.890746 2022] [php:warn] [pid 27800:tid 1916] [client ::1:52516] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 11:56:25.227091 2022] [ssl:warn] [pid 43476:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 11:56:25.333587 2022] [core:warn] [pid 43476:tid 372] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 09 11:56:25.336824 2022] [ssl:warn] [pid 43476:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 11:56:25.385322 2022] [mpm_winnt:notice] [pid 43476:tid 372] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Jun 09 11:56:25.385322 2022] [mpm_winnt:notice] [pid 43476:tid 372] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Jun 09 11:56:25.385322 2022] [core:notice] [pid 43476:tid 372] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 09 11:56:25.394784 2022] [mpm_winnt:notice] [pid 43476:tid 372] AH00418: Parent: Created child process 45088
+[Thu Jun 09 11:56:25.693447 2022] [ssl:warn] [pid 45088:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 11:56:25.802841 2022] [ssl:warn] [pid 45088:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 11:56:25.852432 2022] [mpm_winnt:notice] [pid 45088:tid 328] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 09 11:56:40.029812 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53830] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 11:56:40.030808 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53830] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 11:56:40.197489 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53830] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 11:56:40.197838 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53830] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 11:59:26.531164 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53874] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 12:05:03.524896 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53975] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\AMS.php on line 6
+[Thu Jun 09 12:05:03.533626 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53975] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 12:05:03.533626 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53975] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 12:05:07.350228 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53975] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 12:05:07.350228 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53975] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 12:05:08.973696 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53975] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 12:05:08.973696 2022] [php:warn] [pid 45088:tid 1864] [client ::1:53975] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 15:18:27.873746 2022] [ssl:warn] [pid 32136:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 15:18:27.982799 2022] [core:warn] [pid 32136:tid 352] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 09 15:18:27.984789 2022] [ssl:warn] [pid 32136:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 15:18:28.072088 2022] [mpm_winnt:notice] [pid 32136:tid 352] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Jun 09 15:18:28.072088 2022] [mpm_winnt:notice] [pid 32136:tid 352] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Jun 09 15:18:28.072088 2022] [core:notice] [pid 32136:tid 352] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 09 15:18:28.076163 2022] [mpm_winnt:notice] [pid 32136:tid 352] AH00418: Parent: Created child process 13224
+[Thu Jun 09 15:18:28.486841 2022] [ssl:warn] [pid 13224:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 15:18:28.587415 2022] [ssl:warn] [pid 13224:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 09 15:18:28.631368 2022] [mpm_winnt:notice] [pid 13224:tid 328] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 09 15:18:40.533585 2022] [php:warn] [pid 13224:tid 1864] [client ::1:56604] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 15:18:40.533585 2022] [php:warn] [pid 13224:tid 1864] [client ::1:56604] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Thu Jun 09 15:18:40.728529 2022] [php:warn] [pid 13224:tid 1864] [client ::1:56604] PHP Warning:  Undefined array key "login-error" in C:\\xampp\\htdocs\\AMS\\index.php on line 113
+[Thu Jun 09 15:18:40.730517 2022] [php:warn] [pid 13224:tid 1864] [client ::1:56604] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\AMS\\index.php on line 118
+[Sun Jun 12 12:36:45.055858 2022] [ssl:warn] [pid 9096:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 12 12:36:45.121430 2022] [core:warn] [pid 9096:tid 372] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 12 12:36:45.123610 2022] [ssl:warn] [pid 9096:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 12 12:36:45.162904 2022] [mpm_winnt:notice] [pid 9096:tid 372] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Sun Jun 12 12:36:45.162904 2022] [mpm_winnt:notice] [pid 9096:tid 372] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Sun Jun 12 12:36:45.162904 2022] [core:notice] [pid 9096:tid 372] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jun 12 12:36:45.168981 2022] [mpm_winnt:notice] [pid 9096:tid 372] AH00418: Parent: Created child process 6968
+[Sun Jun 12 12:36:45.550389 2022] [ssl:warn] [pid 6968:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 12 12:36:45.611386 2022] [ssl:warn] [pid 6968:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 12 12:36:45.651858 2022] [mpm_winnt:notice] [pid 6968:tid 340] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 18 11:10:48.905548 2022] [ssl:warn] [pid 27136:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 18 11:10:49.011197 2022] [core:warn] [pid 27136:tid 344] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 18 11:10:49.014186 2022] [ssl:warn] [pid 27136:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 18 11:10:49.153071 2022] [mpm_winnt:notice] [pid 27136:tid 344] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Aug 18 11:10:49.153071 2022] [mpm_winnt:notice] [pid 27136:tid 344] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Aug 18 11:10:49.153071 2022] [core:notice] [pid 27136:tid 344] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Aug 18 11:10:49.156062 2022] [mpm_winnt:notice] [pid 27136:tid 344] AH00418: Parent: Created child process 18752
+[Thu Aug 18 11:10:49.568350 2022] [ssl:warn] [pid 18752:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 18 11:10:49.674719 2022] [ssl:warn] [pid 18752:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 18 11:10:49.730761 2022] [mpm_winnt:notice] [pid 18752:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 18 13:14:04.178970 2022] [mpm_winnt:crit] [pid 18752:tid 348] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Aug 18 13:14:06.188863 2022] [mpm_winnt:notice] [pid 18752:tid 348] AH00364: Child: All worker threads have exited.
+[Wed Sep 14 09:35:28.819948 2022] [ssl:warn] [pid 21080:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:35:28.915136 2022] [core:warn] [pid 21080:tid 332] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 14 09:35:28.918132 2022] [ssl:warn] [pid 21080:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:35:29.060232 2022] [mpm_winnt:notice] [pid 21080:tid 332] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Sep 14 09:35:29.060232 2022] [mpm_winnt:notice] [pid 21080:tid 332] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Sep 14 09:35:29.060232 2022] [core:notice] [pid 21080:tid 332] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Sep 14 09:35:29.063232 2022] [mpm_winnt:notice] [pid 21080:tid 332] AH00418: Parent: Created child process 11912
+[Wed Sep 14 09:35:29.360098 2022] [ssl:warn] [pid 11912:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:35:29.477596 2022] [ssl:warn] [pid 11912:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:35:29.532387 2022] [mpm_winnt:notice] [pid 11912:tid 360] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 14 09:39:02.144493 2022] [ssl:warn] [pid 9944:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:39:02.266066 2022] [core:warn] [pid 9944:tid 340] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 14 09:39:02.269786 2022] [ssl:warn] [pid 9944:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:39:02.316782 2022] [mpm_winnt:notice] [pid 9944:tid 340] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Sep 14 09:39:02.316782 2022] [mpm_winnt:notice] [pid 9944:tid 340] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Sep 14 09:39:02.316782 2022] [core:notice] [pid 9944:tid 340] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Sep 14 09:39:02.320748 2022] [mpm_winnt:notice] [pid 9944:tid 340] AH00418: Parent: Created child process 12112
+[Wed Sep 14 09:39:02.629780 2022] [ssl:warn] [pid 12112:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:39:02.742860 2022] [ssl:warn] [pid 12112:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 14 09:39:02.794785 2022] [mpm_winnt:notice] [pid 12112:tid 344] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 23 15:58:41.560687 2022] [ssl:warn] [pid 716:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 23 15:58:41.709294 2022] [core:warn] [pid 716:tid 340] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 23 15:58:41.712300 2022] [ssl:warn] [pid 716:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 23 15:58:41.838294 2022] [mpm_winnt:notice] [pid 716:tid 340] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Fri Sep 23 15:58:41.838294 2022] [mpm_winnt:notice] [pid 716:tid 340] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri Sep 23 15:58:41.838294 2022] [core:notice] [pid 716:tid 340] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Sep 23 15:58:41.841294 2022] [mpm_winnt:notice] [pid 716:tid 340] AH00418: Parent: Created child process 16000
+[Fri Sep 23 15:58:42.169625 2022] [ssl:warn] [pid 16000:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 23 15:58:42.265554 2022] [ssl:warn] [pid 16000:tid 324] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 23 15:58:42.310684 2022] [mpm_winnt:notice] [pid 16000:tid 324] AH00354: Child: Starting 150 worker threads.
+[Sat Sep 24 15:11:07.280946 2022] [ssl:warn] [pid 9240:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:11:07.384947 2022] [core:warn] [pid 9240:tid 344] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Sep 24 15:11:07.384947 2022] [ssl:warn] [pid 9240:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:11:07.448948 2022] [mpm_winnt:notice] [pid 9240:tid 344] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Sat Sep 24 15:11:07.448948 2022] [mpm_winnt:notice] [pid 9240:tid 344] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Sat Sep 24 15:11:07.448948 2022] [core:notice] [pid 9240:tid 344] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Sep 24 15:11:07.448948 2022] [mpm_winnt:notice] [pid 9240:tid 344] AH00418: Parent: Created child process 2420
+[Sat Sep 24 15:11:07.904945 2022] [ssl:warn] [pid 2420:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:11:07.992947 2022] [ssl:warn] [pid 2420:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:11:08.040952 2022] [mpm_winnt:notice] [pid 2420:tid 344] AH00354: Child: Starting 150 worker threads.
+[Sat Sep 24 15:29:47.742680 2022] [ssl:warn] [pid 19388:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:29:47.810326 2022] [core:warn] [pid 19388:tid 328] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Sep 24 15:29:47.812590 2022] [ssl:warn] [pid 19388:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:29:47.855318 2022] [mpm_winnt:notice] [pid 19388:tid 328] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Sat Sep 24 15:29:47.855318 2022] [mpm_winnt:notice] [pid 19388:tid 328] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Sat Sep 24 15:29:47.855318 2022] [core:notice] [pid 19388:tid 328] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Sep 24 15:29:47.858318 2022] [mpm_winnt:notice] [pid 19388:tid 328] AH00418: Parent: Created child process 2864
+[Sat Sep 24 15:29:48.121844 2022] [ssl:warn] [pid 2864:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:29:48.188851 2022] [ssl:warn] [pid 2864:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:29:48.228966 2022] [mpm_winnt:notice] [pid 2864:tid 356] AH00354: Child: Starting 150 worker threads.
+[Sat Sep 24 15:37:44.996862 2022] [mpm_winnt:crit] [pid 2864:tid 356] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Sep 24 15:41:51.110515 2022] [ssl:warn] [pid 15676:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:41:51.160358 2022] [core:warn] [pid 15676:tid 332] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Sep 24 15:41:51.162346 2022] [ssl:warn] [pid 15676:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:41:54.250328 2022] [mpm_winnt:notice] [pid 15676:tid 332] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Sat Sep 24 15:41:54.250328 2022] [mpm_winnt:notice] [pid 15676:tid 332] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Sat Sep 24 15:41:54.250328 2022] [core:notice] [pid 15676:tid 332] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Sep 24 15:41:54.255312 2022] [mpm_winnt:notice] [pid 15676:tid 332] AH00418: Parent: Created child process 21148
+[Sat Sep 24 15:41:54.498395 2022] [ssl:warn] [pid 21148:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:41:54.553209 2022] [ssl:warn] [pid 21148:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 24 15:41:54.593118 2022] [mpm_winnt:notice] [pid 21148:tid 348] AH00354: Child: Starting 150 worker threads.
+[Wed Oct 19 20:35:14.186063 2022] [ssl:warn] [pid 25132:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 19 20:35:14.258045 2022] [core:warn] [pid 25132:tid 336] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 19 20:35:14.261339 2022] [ssl:warn] [pid 25132:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 19 20:35:14.404377 2022] [mpm_winnt:notice] [pid 25132:tid 336] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Oct 19 20:35:14.405013 2022] [mpm_winnt:notice] [pid 25132:tid 336] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Oct 19 20:35:14.405013 2022] [core:notice] [pid 25132:tid 336] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Oct 19 20:35:14.408013 2022] [mpm_winnt:notice] [pid 25132:tid 336] AH00418: Parent: Created child process 18132
+[Wed Oct 19 20:35:14.711015 2022] [ssl:warn] [pid 18132:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 19 20:35:14.805014 2022] [ssl:warn] [pid 18132:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 19 20:35:14.856125 2022] [mpm_winnt:notice] [pid 18132:tid 332] AH00354: Child: Starting 150 worker threads.
+[Thu Oct 20 12:39:08.074171 2022] [ssl:warn] [pid 12560:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 20 12:39:08.181244 2022] [core:warn] [pid 12560:tid 372] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 20 12:39:08.184245 2022] [ssl:warn] [pid 12560:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 20 12:39:08.244457 2022] [mpm_winnt:notice] [pid 12560:tid 372] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Oct 20 12:39:08.244457 2022] [mpm_winnt:notice] [pid 12560:tid 372] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Oct 20 12:39:08.244457 2022] [core:notice] [pid 12560:tid 372] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Oct 20 12:39:08.250382 2022] [mpm_winnt:notice] [pid 12560:tid 372] AH00418: Parent: Created child process 6804
+[Thu Oct 20 12:39:08.560601 2022] [ssl:warn] [pid 6804:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 20 12:39:08.672650 2022] [ssl:warn] [pid 6804:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 20 12:39:08.725845 2022] [mpm_winnt:notice] [pid 6804:tid 356] AH00354: Child: Starting 150 worker threads.
+[Thu Nov 10 11:08:30.906488 2022] [ssl:warn] [pid 13812:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 10 11:08:30.970488 2022] [core:warn] [pid 13812:tid 352] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 10 11:08:30.972495 2022] [ssl:warn] [pid 13812:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 10 11:08:31.099996 2022] [mpm_winnt:notice] [pid 13812:tid 352] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Thu Nov 10 11:08:31.099996 2022] [mpm_winnt:notice] [pid 13812:tid 352] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Nov 10 11:08:31.099996 2022] [core:notice] [pid 13812:tid 352] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Nov 10 11:08:31.103006 2022] [mpm_winnt:notice] [pid 13812:tid 352] AH00418: Parent: Created child process 8812
+[Thu Nov 10 11:08:31.365997 2022] [ssl:warn] [pid 8812:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 10 11:08:31.432995 2022] [ssl:warn] [pid 8812:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 10 11:08:31.473453 2022] [mpm_winnt:notice] [pid 8812:tid 344] AH00354: Child: Starting 150 worker threads.
+[Wed Nov 16 09:41:10.715342 2022] [ssl:warn] [pid 9012:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 16 09:41:10.841857 2022] [core:warn] [pid 9012:tid 344] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 16 09:41:10.844778 2022] [ssl:warn] [pid 9012:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 16 09:41:10.979761 2022] [mpm_winnt:notice] [pid 9012:tid 344] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 configured -- resuming normal operations
+[Wed Nov 16 09:41:10.979761 2022] [mpm_winnt:notice] [pid 9012:tid 344] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Nov 16 09:41:10.979761 2022] [core:notice] [pid 9012:tid 344] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Nov 16 09:41:10.982745 2022] [mpm_winnt:notice] [pid 9012:tid 344] AH00418: Parent: Created child process 22600
+[Wed Nov 16 09:41:11.320825 2022] [ssl:warn] [pid 22600:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 16 09:41:11.419751 2022] [ssl:warn] [pid 22600:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 16 09:41:11.476825 2022] [mpm_winnt:notice] [pid 22600:tid 344] AH00354: Child: Starting 150 worker threads.

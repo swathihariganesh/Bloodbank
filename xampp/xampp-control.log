@@ -1,0 +1,22 @@
+09:38:48  [main] 	Initializing Control Panel
+09:38:48  [main] 	Windows Version:  Home  64-bit
+09:38:48  [main] 	XAMPP Version: 8.1.4
+09:38:48  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+09:38:48  [main] 	Running with Administrator rights - good!
+09:38:48  [main] 	XAMPP Installation Directory: "c:\xampp\"
+09:38:48  [main] 	Checking for prerequisites
+09:38:48  [main] 	All prerequisites found
+09:38:48  [main] 	Initializing Modules
+09:38:48  [Apache] 	XAMPP Apache is already running on port 80
+09:38:48  [Apache] 	XAMPP Apache is already running on port 443
+09:38:48  [mysql] 	XAMPP MySQL is already running on port 3306
+09:38:48  [main] 	Starting Check-Timer
+09:38:48  [main] 	Control Panel Ready
+09:39:00  [Apache] 	Attempting to stop Apache (PID: 21080)
+09:39:00  [Apache] 	Attempting to stop Apache (PID: 11912)
+09:39:01  [Apache] 	Status change detected: stopped
+09:39:01  [Apache] 	Attempting to start Apache app...
+09:39:02  [Apache] 	Status change detected: running
+12:19:04  [main] 	Deinitializing Modules
+12:19:04  [main] 	Deinitializing Control Panel
+
